@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ENSIAS_WIKI:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc233e4d-66ca-45fd-9757-8ff3e3ac6547" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ENSIAS_WIKI_war_exploded/page/index_question.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ENSIAS_WIKI_war_exploded/page/index_question.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bean/Utilisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bean/Utilisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/UtilisateurDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/UtilisateurDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignupServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignupServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/page/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/page/dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/page/index_question.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/page/index_question.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/page/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/page/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/page/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/page/navbar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/page/showmylatestquestion.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/page/showmylatestquestion.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/page/signup.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/page/signup.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AbdelMoumene-Hadfi &lt;43416543+abdelmoumene-hadfi@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1X5cPxi6bqx8dureuVZyRboYqgD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.3.jar!/" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ENSIAS_WIKI_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ENSIAS_WIKI:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ENSIAS_WIKI_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_30_ENSIAS_WIKI_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="44031" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ENSIAS_WIKI:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc233e4d-66ca-45fd-9757-8ff3e3ac6547" name="Default Changelist" comment="" />
+      <created>1580339375218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580339375218</updated>
+      <workItem from="1580339376843" duration="9362000" />
+      <workItem from="1580351236322" duration="498000" />
+      <workItem from="1580393808552" duration="34365000" />
+      <workItem from="1580501503234" duration="10751000" />
+      <workItem from="1580598747330" duration="2617000" />
+      <workItem from="1580647316306" duration="5663000" />
+      <workItem from="1580674021659" duration="387000" />
+      <workItem from="1580679280384" duration="8000" />
+      <workItem from="1580857808983" duration="2674000" />
+      <workItem from="1580913616346" duration="8906000" />
+      <workItem from="1581003780512" duration="18429000" />
+    </task>
+    <task id="LOCAL-00001" summary="change in navbar , IndexServlet ; &#10;add    in QuestionDAO ;&#10;create of UtilisateurDAO .">
+      <created>1580397065820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580397065820</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add login functionality">
+      <created>1580401254770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580401254771</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add dashboard">
+      <created>1580412023851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580412023851</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add addquestion">
+      <created>1580417241584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580417241584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add addquestion v2">
+      <created>1580417652750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580417652750</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add showquestion">
+      <created>1580434656011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580434656011</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add vote">
+      <created>1580674204625</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580674204625</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add/show image">
+      <created>1580943002126</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580943002126</updated>
+    </task>
+    <task id="LOCAL-00009" summary="delete question">
+      <created>1581021987652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581021987652</updated>
+    </task>
+    <task id="LOCAL-00010" summary="delete question">
+      <created>1581022307721</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581022307721</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change in navbar , IndexServlet ; &#10;add    in QuestionDAO ;&#10;create of UtilisateurDAO ." />
+    <MESSAGE value="add login functionality" />
+    <MESSAGE value="add dashboard" />
+    <MESSAGE value="add addquestion" />
+    <MESSAGE value="add addquestion v2" />
+    <MESSAGE value="add showquestion" />
+    <MESSAGE value="add vote" />
+    <MESSAGE value="add/show image" />
+    <MESSAGE value="delete question" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete question" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dao/QuestionDAO.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
